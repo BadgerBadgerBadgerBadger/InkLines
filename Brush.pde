@@ -1,0 +1,3 @@
+interface Coords {
+  PVector[] locations();
+}
